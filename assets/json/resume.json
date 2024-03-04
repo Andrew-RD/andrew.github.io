@@ -1,0 +1,162 @@
+{
+  "basics": {
+    "name": "Andrew Batista Garcia",
+    "label": "Student",
+    "image": "",
+    "email": "andrewbatistagarcia@gmail.com",
+    "phone": "(829) 944-8055",
+    "url": "https://andrew-rd.github.io/",
+    "summary": "Un joven estudiante dominicano apasionado por las matematicas y la programacion.",
+    "location": {
+      "address": "Las Caobas, Los Laureles, 78",
+      "postalCode": "57000",
+      "city": "Puerto Plata",
+      "countryCode": "RD",
+      "region": "Puerto Plata"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Andrew Batista Garcia",
+        "url": "https://www.linkedin.com/in/andrew-batista-garcia-791bb32b7/"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Colegio San Felipe Apostol, Puerto Plata, Republica Dominicana",
+      "location": "Puerto Plata, Republica Dominicana",
+      "url": "https://sanfelipeapostol.edu.do",
+      "studyType": "Bachiller",
+      "startDate": "2009-08-20",
+      "endDate": "Current",
+      "score": "10"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Excelencia Academica",
+      "date": "2023-06-15",
+      "awarder": "Ministerio de educacion",
+      "summary": "Por haber alcanzado la Excelencia Academica."
+    },
+    {
+      "title": "Medalla de plata",
+      "date": "2024-02-17",
+      "awarder": "Sociedad Dominicana De Computacion",
+      "summary": "Por haber demostrado su habilidad de resolver problemas algoritmicos en la olimpiada dominicana de informatica."
+    },
+    {
+      "title": "Primer Lugar",
+      "date": "2024-02-22",
+      "awarder": "Olimpiada Distrital de matematicas, Categoria D"
+    },
+    {
+      "title": "Primer Lugar",
+      "date": "2023-02-22",
+      "awarder": "Olimpiada Distrital de matematicas, Categoria D"
+    },
+    {
+      "title": "Segundo Lugar",
+      "date": "2020-02-22",
+      "awarder": "Olimpiada Distrital de matematicas, Categoria B"
+    },
+    {
+      "title": "Primer Lugar",
+      "date": "2023-08-12",
+      "awarder": "Asociación Nacional de Taekwon-Do ITF Dominicana",
+      "summary": "Copa Restauracion de taekwon-do, formas"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Python Developer",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "C++ Developer",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Competitive Programming",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "Instructor de Taekwon-do",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "Cinturon Azul, Taekwon-do",
+      "icon": "fa-solid fa-envelope"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Matematicas",
+      "level": "Pro",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Combinatoria",
+        "Teoria de numeros",
+        "Geometria",
+        "Trigonometria",
+        "Algebra"
+      ]
+    },
+    {
+      "name": "Informatica",
+      "level": "Pro",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Programacion Competitiva",
+        "Desarrollo en python",
+        "Desarrollo en C++",
+        "Web Scraping con selenium en python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo",
+      "icon": ""
+    },
+    {
+      "language": "Ingles",
+      "fluency": "Avanzado",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Matematicas",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Teoria de numeros",
+        "Calculo",
+        "Combinatoria",
+        "Trigonometria",
+        "Algebra lineal",
+        "Algebra Abstracta"
+      ]
+    },
+    {
+      "name": "Informatica",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Teoria de grafos",
+        "Programacion Dinamica",
+        "Teoria de juegos",
+        "Estructura de datos y algoritmos",
+        "Programacion competitiva"
+      ]
+    },
+    {
+      "name": "Deportes",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Taekwon-do"
+      ]
+    }
+  ]
+}
